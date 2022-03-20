@@ -1,0 +1,2 @@
+rootProject.name='Flyingbird'
+include ':app'
